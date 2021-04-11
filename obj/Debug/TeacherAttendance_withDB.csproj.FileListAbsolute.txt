@@ -1,0 +1,9 @@
+C:\Users\HP\source\repos\TeacherAttendance_withDB\bin\Debug\TeacherAttendance_withDB.exe.config
+C:\Users\HP\source\repos\TeacherAttendance_withDB\bin\Debug\TeacherAttendance_withDB.exe
+C:\Users\HP\source\repos\TeacherAttendance_withDB\bin\Debug\TeacherAttendance_withDB.pdb
+C:\Users\HP\source\repos\TeacherAttendance_withDB\obj\Debug\TeacherAttendance_withDB.csprojAssemblyReference.cache
+C:\Users\HP\source\repos\TeacherAttendance_withDB\obj\Debug\TeacherAttendance_withDB.Properties.Resources.resources
+C:\Users\HP\source\repos\TeacherAttendance_withDB\obj\Debug\TeacherAttendance_withDB.TeacherAttendace.resources
+C:\Users\HP\source\repos\TeacherAttendance_withDB\obj\Debug\TeacherAttendance_withDB.csproj.GenerateResource.cache
+C:\Users\HP\source\repos\TeacherAttendance_withDB\obj\Debug\TeacherAttendance_withDB.exe
+C:\Users\HP\source\repos\TeacherAttendance_withDB\obj\Debug\TeacherAttendance_withDB.pdb
